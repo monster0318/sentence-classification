@@ -2,7 +2,6 @@
 Author: Muhammad Faizan
 -----------------------
 
-
 python model.py -h
 '''
 # import all the necessary packages 
