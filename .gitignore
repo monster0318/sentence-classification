@@ -1,0 +1,16 @@
+experimental notebook/.ipynb_checkpoints/
+*.pdf
+*.csv
+*.pth
+*.pt
+*.pub
+repokey/
+logs/cola/version_1/
+__pycache__/
+wandb/
+outputs/
+logs/
+train.log
+extra/
+# more files can be added below
+#==============================

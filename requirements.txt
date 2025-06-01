@@ -1,0 +1,16 @@
+pytorch-lightning==1.6.0
+datasets==1.6.2
+transformers==4.5.1
+scikit-learn>=1.0.2
+numpy==1.23.4
+wandb
+torchmetrics
+matplotlib
+seaborn
+hydra-core
+omegaconf
+hydra-colorlog
+fsspec==2022.7.1
+dvc
+onnxruntime
+
